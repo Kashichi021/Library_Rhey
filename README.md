@@ -159,5 +159,3 @@ The application uses MySQL for data persistence, with tables for managing users 
 - [Slim Framework Documentation](https://www.slimframework.com/docs/)
 - [Firebase JWT Documentation](https://github.com/firebase/php-jwt)
 - [PHP Security Best Practices](https://www.php.net/manual/en/security.php)
-
-For further questions, contact the project maintainer or check the issues section of the repository.
